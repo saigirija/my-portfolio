@@ -5,7 +5,7 @@ const Home = () => {
     <header id="header" className="header-tops">
       <div className="container">
         <h1>
-          <a href="index.html">Suresh Chidurala</a>
+          <a href="index.html">Sai Girija Shankaramanchi</a>
         </h1>
         <h2>
           <p className="intro-subtitle"></p>
