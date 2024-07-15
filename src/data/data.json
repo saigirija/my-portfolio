@@ -1,0 +1,334 @@
+[
+  {
+    "skills": [
+      "React.js",
+      "Redux",
+      "HTML",
+      "Material UI",
+      "SCSS",
+      "Node.js",
+      "Express.js",
+      "Mango DB",
+      "Firebase",
+      "JWT",
+      "C programming",
+      "Java",
+      "Figma",
+      "Photoshop",
+      "Ms Office"
+    ]
+  },
+  {
+    "interests": [
+      {
+        "icon": "ri-global-line",
+        "color": "#e80368",
+        "name": "Web Designing"
+      },
+
+      {
+        "icon": "ri-paint-brush-line",
+        "color": "#e361ff",
+        "name": "Photoshop"
+      },
+      {
+        "icon": "ri-mental-health-fill",
+        "color": "#11dbcf",
+        "name": "Yoga"
+      },
+      {
+        "icon": "ri-disc-line",
+        "color": "#b20969",
+        "name": "Music"
+      },
+      {
+        "icon": "ri-live-fill",
+        "color": "#d42020",
+        "name": "Youtube Streming"
+      },
+      {
+        "icon": "ri-restaurant-fill",
+        "color": "#ffbb2c",
+        "name": "Cooking"
+      }
+    ]
+  },
+  {
+    "education": [
+      {
+        "level": "Bachelor of Technology",
+        "year": "2015-2019",
+        "institution": "JNTU College of Engineering, Pulivendula",
+        "branch": "Computer Science and Engineering",
+        "Grade": "more to write"
+      },
+      {
+        "level": "Intermediate",
+        "year": "2014 - 2015",
+        "institution": "Sri Balaji junior college Hanamkonda",
+        "branch": "MPC",
+        "Grade": "969/1000"
+      },
+      {
+        "level": "Secondary Education",
+        "year": "2013",
+        "institution": "Pragathi Vidya Nilayam, Palakurthy",
+        "branch": "",
+        "Grade": "9.3/10"
+      }
+    ]
+  },
+  {
+    "pro_exp": [
+      {
+        "name": "training",
+        "points": [
+          "Conducted workshops on front-end web designing",
+          "Attended IOT workshops",
+          "Certified ethical hacker (CEH) summer training in HACKERSCHOOL Ameerpet",
+          "Machine Learning Certification from Coursera",
+          "Attended web designing with python workshop"
+        ]
+      },
+      {
+        "name": "Certifications",
+        "points": [
+          "Udacity front-end nano Degree Certification",
+          "Machine Learning Certification from Coursera",
+          "Joy of Computing Python Certification from Coursera"
+        ]
+      },
+      {
+        "name": "Projects",
+        "points": [
+          "memories-project using React.js, Node.js, Express.js, Mango DB, JWT, Material UI...",
+          "mario-plans project using React.js, Node.js, Express.js, Mango DB, JWT, Material UI, OAuth...",
+          "This Portfolio using React, Bootstrap"
+        ]
+      }
+    ]
+  },
+  {
+    "social_media": [
+      {
+        "link": "https://twitter.com/ChiduralaSurya?s=08",
+        "font": "icofont-twitter"
+      },
+      {
+        "link": "https://www.facebook.com/surya.chidurala",
+        "font": "icofont-facebook"
+      },
+      {
+        "link": "https://www.instagram.com/suryachidurala?r=nametag",
+        "font": "icofont-instagram"
+      },
+      {
+        "link": "https://www.linkedin.com/in/suresh-chidurala",
+        "font": "icofont-linkedin"
+      },
+      {
+        "link": "https://github.com/Suresh17511",
+        "font": "icofont-github"
+      },
+      {
+        "link": "mailto:suresh.chidurala17511@gmail.com",
+        "font": "icofont-envelope"
+      }
+    ]
+  },
+  {
+    "portfolio": [
+      {
+        "img": "assets/img/portfolio/logo.jpg",
+        "project_name": "Movie-Maza-project",
+        "title": "Movie-Maza-project",
+        "technology": "React.js",
+        "github": "https://github.com/Suresh17511/movie-adda",
+        "liveSite": "https://movies-adda.netlify.app",
+        "sliderImages": [
+          "assets/img/portfolio/Screenshot_001-min.png",
+          "assets/img/portfolio/Screenshot_002-min.png",
+          "assets/img/portfolio/Screenshot_003-min.png",
+          "assets/img/portfolio/Screenshot_005-min.png",
+          "assets/img/portfolio/Screenshot_006-min.png"
+        ],
+        "description": [
+          "Used TMDB api for this application.",
+          "In this application you can find all movies in the entire world. ",
+          "U can see movie details and also you can watch trailer related to that movie.",
+          "More over you can see total cast and crew details worked on that movie.",
+          "U can also see the celebrity details like movies he worked on and Personal information related to him.",
+          "This is a PWA application you can download on Desktop site and Mobile site as an APK file"
+        ],
+        "technologies": ["React", "Scss", "TMDB API"]
+      },
+      {
+        "img": "assets/img/portfolio/memories-project.png",
+        "project_name": "memories-project",
+        "title": "memories-project",
+        "technology": "React.js",
+        "github": "https://github.com/Suresh17511/memories-project",
+        "liveSite": "https://my-memories-s.netlify.app",
+        "sliderImages": [
+          "assets/img/portfolio/memory-plans-01.png",
+          "assets/img/portfolio/memory-plans-02.png",
+          "assets/img/portfolio/memory-plans-03.png",
+          "assets/img/portfolio/memory-plans-04.png",
+          "assets/img/portfolio/memory-plans-05.png"
+        ],
+        "description": [
+          "Creating a person's memories based on Authentication.",
+          "Added the functionalities like create, update, delete, like the memory and seen by every person and liked by others.",
+          "user can see related post when he click on the memory details.",
+          "Based on the authentication user can create update or delete the memory that he have created."
+        ],
+        "technologies": [
+          "React",
+          "Redux",
+          "Material UI",
+          "Node",
+          "Express",
+          "Mango DB",
+          "JWT",
+          "OAuth"
+        ]
+      },
+      {
+        "img": "assets/img/portfolio/mario-plans.jpg",
+        "project_name": "mario-plans-project",
+        "title": "mario-plans",
+        "technology": "React.js",
+        "github": "https://github.com/Suresh17511/mario-plans",
+        "liveSite": "https://mario-plans.netlify.app",
+        "sliderImages": [
+          "assets/img/portfolio/mario-plans-01.png",
+          "assets/img/portfolio/mario-plans-02.png",
+          "assets/img/portfolio/mario-plans-03.png",
+          "assets/img/portfolio/mario-plans-04.png"
+        ],
+        "description": [
+          "User can create his own daily routine plans like setting up reminders, Money, todos, work. ",
+          "Each User has his own separate database , he can create and delete his plans.",
+          "It is Responsive Design "
+        ],
+        "technologies": [
+          "React",
+          "Redux",
+          "Material UI",
+          "Node",
+          "Express",
+          "JWT",
+          "OAuth"
+        ]
+      },
+      {
+        "img": "assets/img/portfolio/Front-end_tech.png",
+        "project_name": "Tutorial Site",
+        "title": "My Tutorial site",
+        "technology": "React.js",
+        "github": "https://github.com/Suresh17511/front-end-development-technologies",
+        "liveSite": "https://front-end-web-technologies.netlify.app",
+        "sliderImages": [
+          "assets/img/portfolio/tutorial_001-min.png",
+          "assets/img/portfolio/tutorial_002-min.png",
+          "assets/img/portfolio/tutorial_003-min.png"
+        ],
+        "description": [
+          "We can learn Front-end technologies like react, redux, sass",
+          "We can provide Back-end as well in the future update.",
+          "The goal of this application to build a whole full stack application for users to develop their skills "
+        ],
+        "technologies": ["React", "Scss"]
+      },
+      {
+        "img": "assets/img/portfolio/book-store-app.png",
+        "project_name": "my-book-store-app",
+        "title": "my-book-store-app",
+        "technology": "React.js",
+        "github": "https://github.com/Suresh17511/my-book-store-app",
+        "liveSite": "https://book-store-application.netlify.app",
+        "sliderImages": [
+          "assets/img/portfolio/book-store-01.png",
+          "assets/img/portfolio/book-store-02.png",
+          "assets/img/portfolio/book-store-03.png",
+          "assets/img/portfolio/book-store-04.png",
+          "assets/img/portfolio/book-store-05.png"
+        ],
+        "description": [
+          "It is a sample book store application with some books can be displayed from the back-end.",
+          "The features of this app are : Views like list and grid , and on the grid view when user click on the book a model can be pop-up showing details of the book.",
+          "User can fetch the books by search. and the dark feature can also available."
+        ],
+        "technologies": ["React", "SCSS", "Node", "Express"]
+      },
+      {
+        "img": "assets/img/portfolio/stock-currency.jpg",
+        "project_name": "stock-currency-app",
+        "title": "stock-currency-app",
+        "technology": "React.js",
+        "github": "https://github.com/Suresh17511/stock-currency",
+        "liveSite": "https://stock-currency.netlify.app",
+        "sliderImages": [
+          "assets/img/portfolio/stock-currency-01.png",
+          "assets/img/portfolio/stock-currency-02.png",
+          "assets/img/portfolio/stock-currency-03.png",
+          "assets/img/portfolio/stock-currency-04.png",
+          "assets/img/portfolio/stock-currency-05.png"
+        ],
+        "description": [
+          "This is a sample stock-currency application , the user can see stock-currency details fetch from the third party API.",
+          "The user can save the currency details and can see the saved currency details",
+          "And some other functionalities like fetch the details by search and pagination for the stock-currency items"
+        ],
+        "technologies": [
+          "React",
+          "Redux",
+          "Material UI",
+          "Scss",
+          "Node",
+          "Express"
+        ]
+      },
+      {
+        "img": "assets/img/portfolio/amazon-clone.jpg",
+        "project_name": "amazon-clone-app",
+        "title": "amazon-clone-app",
+        "technology": "React.js",
+        "github": "https://github.com/Suresh17511/amazon-clone",
+        "liveSite": "https://surya-amazon-clone.netlify.app",
+        "sliderImages": [
+          "assets/img/portfolio/amazon-clone-01.png",
+          "assets/img/portfolio/amazon-clone-02.png",
+          "assets/img/portfolio/amazon-clone-03.png",
+          "assets/img/portfolio/amazon-clone-04.png"
+        ],
+        "description": [
+          "It is just an UI interface Design that representing the Amazon",
+          "It is Responsive Design and No more functionalities in it"
+        ],
+        "technologies": ["React", "Material UI", "Scss"]
+      },
+
+      {
+        "img": "assets/img/portfolio/sample-routing.png",
+        "project_name": "sample-routing-project",
+        "title": "Routing",
+        "technology": "React.js",
+        "github": "https://github.com/Suresh17511/react-routing",
+        "liveSite": "https://routing-test.netlify.app",
+        "sliderImages": [
+          "assets/img/portfolio/sample-route-01.png",
+          "assets/img/portfolio/sample-route-02.png",
+          "assets/img/portfolio/sample-route-03.png",
+          "assets/img/portfolio/sample-route-04.png"
+        ],
+        "description": [
+          "It is just a sample routing app switching the pages ",
+          "And for the shop page fetch some data from the third party API and display the details of the each post with that id.",
+          "It is Responsive Design"
+        ],
+        "technologies": ["React", "HTML", "CSS"]
+      }
+    ]
+  }
+]
