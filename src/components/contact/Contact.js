@@ -42,7 +42,7 @@ const Contact = () => {
                 target="_blank"
                 rel="noreferrer"
               >
-                <p>Hyderabad, India</p>
+                <p>Cumming, GA</p>
               </a>
             </div>
           </div>
@@ -71,9 +71,9 @@ const Contact = () => {
               <p>
                 <a
                   style={{color: 'white'}}
-                  href="mailto:suryachidurala123@gmail.com"
+                  href="mailto:Saigirija430@gmail.com"
                 >
-                  suryachidurala123@gmail.com
+                  saigirija430@gmail.com
                 </a>
               </p>
             </div>
@@ -83,9 +83,9 @@ const Contact = () => {
               <i className="bx bx-phone-call"></i>
               <h3>Call Me</h3>
               <p>
-                +91
-                <a style={{color: 'white'}} href="tel:+918639193040">
-                  8639193040
+                +1
+                <a style={{color: 'white'}} href="tel:+1(562) 939-1022">
+                   (562) 939-1022
                 </a>
               </p>
             </div>

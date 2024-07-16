@@ -51,10 +51,10 @@ const Header = () => {
   return (
     <div className="header">
       <div className="icon">
-        <h1>SC</h1>
+        <h1>SSG</h1>
       </div>
       <div className="name">
-        <h2 style={{ fontWeight: 700 }}>Suresh Chidurala</h2>
+        <h2 style={{ fontWeight: 700 }}>Sai Girija Shankaramanchi</h2>
       </div>
       {isMatch ? (
         <div className="drawer">

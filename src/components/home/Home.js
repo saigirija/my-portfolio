@@ -10,7 +10,7 @@ const Home = () => {
         <h2>
           <p className="intro-subtitle"></p>
           <p>
-            I'm a passionate <b>Web Developer</b>
+            I'm a passionate <b>software engineer</b>
             <span className="text-slider-items">
               <b style={{ display: "none" }}>
                 Web Designing, UI Design, Photoshop, Photographer,Ms Office
@@ -53,18 +53,10 @@ const Home = () => {
             target="_blank"
             rel="noreferrer"
           >
-            <i className="icofont-facebook" target="_blank"></i>
-          </a>
-          <a
-            href="https://www.instagram.com/suryachidurala?r=nametag"
-            className="instagram"
-            target="_blank"
-            rel="noreferrer"
-          >
             <i className="icofont-instagram"></i>
           </a>
           <a
-            href="https://www.linkedin.com/in/suresh-chidurala"
+            href="www.linkedin.com/in/sai-girija-shankaramanchi-250938307"
             className="linkedin"
             target="_blank"
             rel="noreferrer"
@@ -72,7 +64,7 @@ const Home = () => {
             <i className="icofont-linkedin"></i>
           </a>
           <a
-            href="https://github.com/Suresh17511"
+            href="https://github.com/saigirija/my-portfolio"
             className="github"
             target="_blank"
             rel="noreferrer"
@@ -80,7 +72,7 @@ const Home = () => {
             <i className="bx bxl-github"></i>
           </a>
           <a
-            href="mailto:suresh.chidurala17511@gmail.com"
+            href="mailto:saigirija430@gmail.com"
             className="gmail"
             rel="noreferrer"
           >

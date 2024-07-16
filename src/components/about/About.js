@@ -15,27 +15,30 @@ const About = () => {
             <img src="assets/img/surya.png" className="img-fluid" alt="Surya" />
           </div>
           <div className="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <h3>Web &amp; App Developer</h3>
+            <h3>Full &amp; Stack Developer</h3>
             <p className="font-italic">
-              Inquisitive, energetic Computer Science student skilled in
-              programming, with a strong foundation in Full-stack web
-              development using React.js, Node.js, Express.js, PHP, Material UI,
-              HTML, SCSS, Bootstrap.
+              Vivacious Having worked in technical engineering for a year, the Full Stack Developer has a focus on developing SQL queries, ETL procedures, and Java development.
+              A track record of success in Agile settings, optimizing workflows with GitLab and Continuous Integration/Continuous Delivery (CI/CD) solutions. 
+	            Knowledgeable about Kubernetes and cloud computing platforms like Azure, with practical experience in Apex, HTML, JavaScript, and CSS application development. 
+              Competent in using technologies such as Heroku, and Twilio to improve data connectivity.
+              Proficient in utilizing Lightning pages to create personalized reports and dashboards that provide meaningful insights. Capable of deploying features with ANT, Change Sets, VS Code, GitLab, and Copado.
+              Knowledgeable in data migration utilizing Data Loader and Import Wizard.
+.
             </p>
             <div className="row">
               <div className="col-lg-6">
                 <ul>
                   <li>
                     <i className="icofont-rounded-right"></i>
-                    <strong>Birthday:</strong> &nbsp; 02 March 1998
+                    <strong>Birthday:</strong> &nbsp; 11 Dec 1999
                   </li>
                   <li>
                     <i className="icofont-rounded-right"></i>
-                    <strong>Phone:</strong>&nbsp; (+91)8639193040
+                    <strong>Phone:</strong>&nbsp; (+1) 5629391022
                   </li>
                   <li>
                     <i className="icofont-rounded-right"></i>
-                    <strong>City:</strong>&nbsp; Palakurthy,Jangoan
+                    <strong>City:</strong>&nbsp; Cumming, GA 
                   </li>
                 </ul>
               </div>
@@ -43,16 +46,16 @@ const About = () => {
                 <ul>
                   <li>
                     <i className="icofont-rounded-right"></i>
-                    <strong>Age:</strong>&nbsp; 22
+                    <strong>Age:</strong>&nbsp; 24
                   </li>
                   <li>
                     <i className="icofont-rounded-right"></i>
-                    <strong>Degree:</strong>&nbsp;Bachelor of Technology
+                    <strong>Degree:</strong>&nbsp;Masters of Science
                   </li>
                   <li>
                     <i className="icofont-rounded-right"></i>
                     <strong>Email:</strong>&nbsp;
-                    suresh.chidurala17511@gmail.com
+                    saigirija430@gmail.com
                   </li>
                 </ul>
               </div>

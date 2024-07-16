@@ -2,19 +2,19 @@
   {
     "skills": [
       "React.js",
-      "Redux",
+      ".NET",
       "HTML",
-      "Material UI",
+      "CSS",
+      "java Script",
+      "Angular",
       "SCSS",
-      "Node.js",
-      "Express.js",
-      "Mango DB",
-      "Firebase",
-      "JWT",
-      "C programming",
+      "SQL",
+      "Microsoft Visual Studio 2019,2022",
+      "Azure",
+      "C#",
       "Java",
-      "Figma",
-      "Photoshop",
+      "Windows 10",
+      "LINUX",
       "Ms Office"
     ]
   },
@@ -42,9 +42,9 @@
         "name": "Music"
       },
       {
-        "icon": "ri-live-fill",
+        "icon": "ri-garden-fill",
         "color": "#d42020",
-        "name": "Youtube Streming"
+        "name": "Gardening"
       },
       {
         "icon": "ri-restaurant-fill",
@@ -56,25 +56,18 @@
   {
     "education": [
       {
+        "level": "Masters of Science",
+        "year": "Jan 2022- Dec 2023 ",
+        "institution": "University of Houston Clear lake, Houston,Tx ",
+        "branch": "Computer Engineering",
+        "Grade": "3.15/4.0"
+      },
+      {
         "level": "Bachelor of Technology",
-        "year": "2015-2019",
-        "institution": "JNTU College of Engineering, Pulivendula",
-        "branch": "Computer Science and Engineering",
-        "Grade": "more to write"
-      },
-      {
-        "level": "Intermediate",
-        "year": "2014 - 2015",
-        "institution": "Sri Balaji junior college Hanamkonda",
-        "branch": "MPC",
-        "Grade": "969/1000"
-      },
-      {
-        "level": "Secondary Education",
-        "year": "2013",
-        "institution": "Pragathi Vidya Nilayam, Palakurthy",
-        "branch": "",
-        "Grade": "9.3/10"
+        "year": "2017 - 2021",
+        "institution": "Vaagdevi college of Engineering, India",
+        "branch": "Electronics and Communication Engineering",
+        "Grade": "7.85/10"
       }
     ]
   },
@@ -84,10 +77,7 @@
         "name": "training",
         "points": [
           "Conducted workshops on front-end web designing",
-          "Attended IOT workshops",
-          "Certified ethical hacker (CEH) summer training in HACKERSCHOOL Ameerpet",
-          "Machine Learning Certification from Coursera",
-          "Attended web designing with python workshop"
+          "Attended IOT workshops"
         ]
       },
       {
