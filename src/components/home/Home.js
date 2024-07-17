@@ -39,24 +39,9 @@ const Home = () => {
           </ul>
         </nav> */}
         <div className="social-links">
+          
           <a
-            href="https://twitter.com/ChiduralaSurya?s=08"
-            className="twitter"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <i className="icofont-twitter"></i>
-          </a>
-          <a
-            href="https://www.facebook.com/surya.chidurala"
-            className="facebook"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <i className="icofont-instagram"></i>
-          </a>
-          <a
-            href="www.linkedin.com/in/sai-girija-shankaramanchi-250938307"
+            href="https://www.linkedin.com/in/sai-girija-shankaramanchi-250938307/"
             className="linkedin"
             target="_blank"
             rel="noreferrer"
@@ -64,7 +49,7 @@ const Home = () => {
             <i className="icofont-linkedin"></i>
           </a>
           <a
-            href="https://github.com/saigirija/my-portfolio"
+            href="https://github.com/saigirija"
             className="github"
             target="_blank"
             rel="noreferrer"

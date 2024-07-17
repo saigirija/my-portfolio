@@ -42,7 +42,7 @@
         "name": "Music"
       },
       {
-        "icon": "ri-garden-fill",
+        "icon": "ri-plant-fill",
         "color": "#d42020",
         "name": "Gardening"
       },
@@ -81,11 +81,12 @@
         ]
       },
       {
-        "name": "Certifications",
+        "name": "Experience",
         "points": [
-          "Udacity front-end nano Degree Certification",
-          "Machine Learning Certification from Coursera",
-          "Joy of Computing Python Certification from Coursera"
+           "Stamens Software Pvt. Ltd.                                                                                    Jan 2021-Dec 2021",
+           "Role: Full-Stack Developer.",
+           "Noida, India."
+           
         ]
       },
       {
@@ -101,27 +102,15 @@
   {
     "social_media": [
       {
-        "link": "https://twitter.com/ChiduralaSurya?s=08",
-        "font": "icofont-twitter"
-      },
-      {
-        "link": "https://www.facebook.com/surya.chidurala",
-        "font": "icofont-facebook"
-      },
-      {
-        "link": "https://www.instagram.com/suryachidurala?r=nametag",
-        "font": "icofont-instagram"
-      },
-      {
-        "link": "https://www.linkedin.com/in/suresh-chidurala",
+        "link": "https://www.linkedin.com/in/sai-girija-shankaramanchi-250938307/",
         "font": "icofont-linkedin"
       },
       {
-        "link": "https://github.com/Suresh17511",
+        "link": "https://github.com/saigirija",
         "font": "icofont-github"
       },
       {
-        "link": "mailto:suresh.chidurala17511@gmail.com",
+        "link": "mailto:saigirija430@gmail.com",
         "font": "icofont-envelope"
       }
     ]

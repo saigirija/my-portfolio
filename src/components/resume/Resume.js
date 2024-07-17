@@ -13,18 +13,18 @@ const Resume = () => {
           <div className="col-lg-6">
             <h3 className="resume-title">Summary</h3>
             <div className="resume-item pb-0">
-              <h4>Suresh Chidurala</h4>
+              <h4>Sai Girija Shankaramanchi</h4>
               <p>
                 <em>
-                  Inquisitive, energetic Computer Science student skilled in
+                  Inquisitive, energetic Computer engineering student skilled in
                   programming, with a strong foundation in web designing using
                   Reactjs , Nodejs ,Angular , PHP ,HTML,CSS,Bootstrap.
                 </em>
               </p>
               <ul>
-                <li>Palakurthy , Jangoan</li>
-                <li>(+91)8639193040</li>
-                <li>suresh.chidurala17511@gmail.com</li>
+                <li>Atlanta, GA</li>
+                <li>(+1) 5629391022</li>
+                <li>saigirija430@gmail.com</li>
               </ul>
             </div>
             <h3 className="resume-title">Education</h3>

@@ -38,7 +38,7 @@ const Contact = () => {
               <i className="bx bx-map"></i>
               <h3>My Address</h3>
               <a
-                href="https://www.google.com/maps/place/2-85+Sravani+Saree+store+(PRABHAKAR+NILAYAM)/@17.6582665,79.3892114,14.54z/data=!4m8!1m2!2m1!1ssravani+cloth+store+thorrur+palakurthy+jangoan!3m4!1s0x0:0xf0ba28b6ea2064d3!8m2!3d17.6690887!4d79.3806814"
+                href="https://www.google.com/maps/place/2250+Bancroft+Pass,+Cumming,+GA+30041/@34.1398034,-84.1479229,17z/data=!3m1!4b1!4m6!3m5!1s0x88f59bacef006e95:0x5db627b920d0c88f!8m2!3d34.1398034!4d-84.145348!16s%2Fg%2F11dfgg12lv?entry=ttu"
                 target="_blank"
                 rel="noreferrer"
               >
