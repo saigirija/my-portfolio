@@ -10,7 +10,7 @@ const Home = () => {
         <h2>
           <p className="intro-subtitle"></p>
           <p>
-            I'm a passionate <b>software engineer</b>
+            I'm a passionate <b>Full Stack Developer</b>
             <span className="text-slider-items">
               <b style={{ display: "none" }}>
                 Web Designing, UI Design, Photoshop, Photographer,Ms Office
